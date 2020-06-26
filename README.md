@@ -4,7 +4,7 @@ Mini python project using SpeechRecognition in french
 ### Feature
   - Open app ("ouvrir une application")
   - Open file ("ouvrir un fichier")
-  - Close programm ("fermer le programme")
+  - Close program ("fermer le programme")
 
 ### Installation
 
